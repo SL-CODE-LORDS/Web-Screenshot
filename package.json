@@ -1,0 +1,32 @@
+{
+  "name": "@sl-code-lords/web_screenshot",
+  "version": "0.0.1-dev",
+  "description": "take screenshot and pdf from given url",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL-CODE-LORDS/Web-Screenshot.git"
+  },
+  "keywords": [
+    "ss",
+    "screenshot",
+    "web",
+    "pdf"
+  ],
+  "author": "Ravindu Manoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SL-CODE-LORDS/Web-Screenshot/issues"
+  },
+  "homepage": "https://github.com/SL-CODE-LORDS/Web-Screenshot#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "fs": "^0.0.1-security"
+  }
+}
